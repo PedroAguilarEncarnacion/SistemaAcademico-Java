@@ -1,5 +1,6 @@
+package ec.edu.espoch.sistemaacademico.personasinsitucionales;
 
-package ec.edu.espoch.sistemaacademico.clases;
+import ec.edu.espoch.sistemaacademico.clases.personas.Persona;
 
 public class PersonaInstitucional extends Persona{
     
@@ -13,25 +14,10 @@ public class PersonaInstitucional extends Persona{
         this.correoInstitucional = correoInstitucional;
     }
 
-    public String getCorreoInstitucional() {
-        return correoInstitucional;
-    }
-
-    public void setCorreoInstitucional(String correoInstitucional) {
-        this.correoInstitucional = correoInstitucional;
-    }
-    
-    public String agregarPersonaInstitucional(){
-    
-    return "";
-    }
 
     @Override
     public String toString() {
         return "PersonaInstitucional{" +super.toString()+ "correoInstitucional=" + correoInstitucional +'}';
     }
-    
-    
-    
-    
+
 }
