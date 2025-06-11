@@ -1,4 +1,4 @@
-package ec.edu.espoch.sistemaacademico.clases.personas;
+package ec.edu.espoch.sistemaacademico.personas;
 
 public class Persona {
     private int id;

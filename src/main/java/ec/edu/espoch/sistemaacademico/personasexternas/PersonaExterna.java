@@ -1,7 +1,7 @@
 
-package ec.edu.espoch.sistemaacademico.clases.personasexternas;
+package ec.edu.espoch.sistemaacademico.personasexternas;
 
-import ec.edu.espoch.sistemaacademico.clases.personas.Persona;
+import ec.edu.espoch.sistemaacademico.personas.Persona;
 
 
 public class PersonaExterna extends Persona{

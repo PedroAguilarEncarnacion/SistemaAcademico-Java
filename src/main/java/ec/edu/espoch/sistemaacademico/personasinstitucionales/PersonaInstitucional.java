@@ -1,6 +1,6 @@
 package ec.edu.espoch.sistemaacademico.personasinsitucionales;
 
-import ec.edu.espoch.sistemaacademico.clases.personas.Persona;
+import ec.edu.espoch.sistemaacademico.personas.Persona;
 
 public class PersonaInstitucional extends Persona{
     

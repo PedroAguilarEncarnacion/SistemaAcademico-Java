@@ -2,7 +2,7 @@
 
 package ec.edu.espoch.sistemaacademico;
 
-import ec.edu.espoch.sistemaacademico.clases.personasexternas.PersonaExterna;
+import ec.edu.espoch.sistemaacademico.personasexternas.PersonaExterna;
 
 public class SistemaAcademico {
 
